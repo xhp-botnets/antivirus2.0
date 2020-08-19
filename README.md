@@ -15,3 +15,9 @@ really good tested on system with fake virus so it only detect real virus
 :skull_and_crossbones:
 
 :shipit:     :basecampy: :unicorn: 
+
+
+
+
+
+detects disguised malware

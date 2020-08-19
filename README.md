@@ -21,3 +21,9 @@ really good tested on system with fake virus so it only detect real virus
 
 
 detects disguised malware
+
+
+
+:performing_arts:
+
+
